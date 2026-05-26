@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4642922-b793-476a-90ba-3d36065c2470" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="3EF7W2Ow2VJfN7iC9k9AslgmMDk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Ventana.executor": "Run",
+    "Application.VistaGestor.executor": "Run",
+    "JUnit.ActivoDigitalConstructorTest.executor": "Run",
+    "JUnit.AplicarParcheYReiniciarTest.executor": "Run",
+    "JUnit.ArrayListUsoTest.executor": "Run",
+    "JUnit.BuscarPorCodigoTest.executor": "Run",
+    "JUnit.ContarActivosCriticosTest.executor": "Run",
+    "JUnit.FirewallHerenciaTest.executor": "Run",
+    "JUnit.PromedioRiesgoTest.executor": "Run",
+    "JUnit.RegistrarActivoTest.executor": "Run",
+    "JUnit.ServidorHerenciaTest.executor": "Run",
+    "Maven.ciberseguridad-poo-arraylist-autograding [test].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/tallerprogreso2-Ruayan57-main/tallerprogreso2-Ruayan57-main/src/main/java/ec/edu/poo"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\tallerprogreso2-Ruayan57-main\tallerprogreso2-Ruayan57-main\src\main\java\ec\edu\poo" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="tallerprogreso2-Ruayan57-main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4642922-b793-476a-90ba-3d36065c2470" name="Changes" comment="" />
+      <created>1779762492060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1779762492060</updated>
+    </task>
+    <servers />
+  </component>
+</project>
